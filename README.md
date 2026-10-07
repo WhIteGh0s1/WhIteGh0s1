@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/header.png" alt="Little White Ghost" width="100%">
-</p>
-
-<p align="center">
   Делаю быстрые и красивые программы для Windows: без рекламы, без регистрации, со своим дизайном.
 </p>
 
