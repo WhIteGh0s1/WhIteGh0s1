@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/banner.png" alt="Ghost" width="100%">
+</p>
+
+<p align="center">
   Делаю быстрые и красивые программы для Windows: без рекламы, без регистрации, со своим дизайном.
 </p>
 
